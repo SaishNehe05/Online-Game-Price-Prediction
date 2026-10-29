@@ -1,0 +1,6 @@
+model,cv_mae_mean_eur,cv_mae_std_eur,selected,notes
+Median Baseline,,,,Fill by running python src/train_model.py
+Ridge Regression,,,,Fill by running python src/train_model.py
+Decision Tree,,,,Fill by running python src/train_model.py
+Random Forest,,,,Fill by running python src/train_model.py
+Extra Trees,,,,Fill by running python src/train_model.py
